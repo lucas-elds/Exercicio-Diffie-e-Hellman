@@ -4,5 +4,5 @@
 </p>
 <h1>Implementação:</h1>
 <p>
-  Sem o uso de bibliotecas adicionais, crie um programa em python que seja capaz de a partir dos dados entrada calcular o segredo compartilhado "S". Para fins didáticos, este programa deve usar os valores n = 47, g = 3. Escolha qualquer valor inteiro positivo para os valores x e y. O programa deve apresentar na saída os segredos "Sa", "Sb"|"Sa" = "Sb".
+  Sem o uso de bibliotecas adicionais, crie um programa em python que seja capaz de a partir dos dados entrada calcular o segredo compartilhado "S". Para fins didáticos, este programa deve usar os valores n = 47, g = 3. Escolha qualquer valor inteiro positivo para os valores x e y. O programa deve apresentar na saída os segredos "Sa", "Sb" | "Sa"="Sb".
 </p>
